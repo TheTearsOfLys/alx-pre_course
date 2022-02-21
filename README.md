@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This file is not empty
 On branch master
 
@@ -13,3 +14,7 @@ nothing added to commit but untracked files present (use "git add" to track)
  create mode 100644 README.md
 On branch master
 nothing to commit, working tree clean
+=======
+My first readme
+edited version
+>>>>>>> ff3e7eae7be0beec54e71579defa7d092f963d9e
